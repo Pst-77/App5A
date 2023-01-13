@@ -98,6 +98,15 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'Hola Mundo:',
             ),
+            const Text(
+              'Argel Cano, Abel Balam, Crystian Ramirez',
+              
+            ),
+            const Text(
+              '5A',
+              
+            ),
+
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
