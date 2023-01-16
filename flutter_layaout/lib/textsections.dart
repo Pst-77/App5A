@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
+// ignore: camel_case_types
 class textsections extends StatelessWidget {
   const textsections ({super.key});
   
@@ -18,6 +19,7 @@ class textsections extends StatelessWidget {
       ),
     
     );
+    
   }
 }
   

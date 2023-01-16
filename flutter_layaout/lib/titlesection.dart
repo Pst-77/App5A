@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: camel_case_types
 class titleSection extends StatelessWidget {
   const titleSection({super.key});
 
@@ -27,7 +28,7 @@ class titleSection extends StatelessWidget {
                 ),
               ),
             ),
-            Text(
+            const Text(
               'Kandersteg, Switzerland',
               style: TextStyle(
                 color: Color.fromARGB(255, 196, 45, 45),
